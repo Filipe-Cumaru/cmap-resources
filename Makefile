@@ -50,7 +50,7 @@ CMap_Korea1_dest = Korea1
 
 # Other related files:
 DISTFILES    =                          \
-	LICENSE.txt                     \
+	LICENSE.md                     \
 	Makefile                        \
 	README.md                       \
 	VERSIONS.txt                    \
